@@ -38,5 +38,5 @@ Follow these steps to set up your environment and begin exploring the code:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YourUsername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/YourUsername/tech_training_in_c
+cd tech_training_in_c
