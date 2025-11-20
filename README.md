@@ -38,5 +38,5 @@ Follow these steps to set up your environment and begin exploring the code:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YourUsername/tech_training_in_c](https://github.com/Simply-Coder-start/Tech_training_in-_c/
+git clone https://github.com/YourUsername/tech_training_in_c
 cd tech_training_in_c
